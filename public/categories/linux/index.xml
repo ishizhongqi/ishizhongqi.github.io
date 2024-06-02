@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Linux on Shizhongqi&#39;s Note</title>
+    <link>//localhost:1313/categories/linux/</link>
+    <description>Recent content in Linux on Shizhongqi&#39;s Note</description>
+    <image>
+      <title>Shizhongqi&#39;s Note</title>
+      <url>//localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>//localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.126.2</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sun, 02 Jun 2024 15:53:17 +0800</lastBuildDate>
+    <atom:link href="//localhost:1313/categories/linux/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Linux Command</title>
+      <link>//localhost:1313/notes/linux-command/</link>
+      <pubDate>Sun, 02 Jun 2024 15:53:17 +0800</pubDate>
+      <guid>//localhost:1313/notes/linux-command/</guid>
+      <description>Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。</description>
+    </item>
+  </channel>
+</rss>
