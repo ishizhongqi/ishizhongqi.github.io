@@ -9,10 +9,38 @@
       <url>//localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>//localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
-    <generator>Hugo -- 0.126.2</generator>
+    <generator>Hugo -- 0.126.3</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 02 Jun 2024 15:53:17 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 03 Jun 2024 16:36:17 +0800</lastBuildDate>
     <atom:link href="//localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Git</title>
+      <link>//localhost:1313/tags/git/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/git/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Vi</title>
+      <link>//localhost:1313/tags/vi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/vi/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>View</title>
+      <link>//localhost:1313/tags/view/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/view/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Vim</title>
+      <link>//localhost:1313/tags/vim/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/vim/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Linux</title>
       <link>//localhost:1313/tags/linux/</link>

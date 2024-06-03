@@ -9,10 +9,24 @@
       <url>//localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>//localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
-    <generator>Hugo -- 0.126.2</generator>
+    <generator>Hugo -- 0.126.3</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 02 Jun 2024 15:53:17 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 03 Jun 2024 16:36:17 +0800</lastBuildDate>
     <atom:link href="//localhost:1313/categories/command/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Git Manual</title>
+      <link>//localhost:1313/notes/git-manual/</link>
+      <pubDate>Mon, 03 Jun 2024 16:36:17 +0800</pubDate>
+      <guid>//localhost:1313/notes/git-manual/</guid>
+      <description>Git常用命令参考手册，基本涵盖了在开发中用到的git命令，能满足日常需求。</description>
+    </item>
+    <item>
+      <title>VimTutor中文文档</title>
+      <link>//localhost:1313/notes/vimtutor%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3/</link>
+      <pubDate>Mon, 03 Jun 2024 16:36:17 +0800</pubDate>
+      <guid>//localhost:1313/notes/vimtutor%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3/</guid>
+      <description>VimTutor中文文档。</description>
+    </item>
     <item>
       <title>Linux Command</title>
       <link>//localhost:1313/notes/linux-command/</link>
