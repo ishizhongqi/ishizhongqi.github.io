@@ -1,16 +1,16 @@
-+++
-title = 'Linux Command'
-date = 2024-06-02T15:53:17+08:00
-draft = false
-description = "Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。"
-tags = [ "Linux" ]
-categories = [
-  "Notes",
-  "Linux",
-  "Command"
-]
-showtoc = true
-+++
+---
+categories:
+- Notes
+- Linux
+- Command
+date: "2024-06-02T15:53:17+08:00"
+description: Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。
+draft: false
+showtoc: true
+tags:
+- Linux
+title: Linux Command
+---
 
 [➤ 搜索Linux命令](https://jaywcjlove.github.io/linux-command/)  
 [➤ GitHub仓库原作者](https://github.com/jaywcjlove/linux-command)  

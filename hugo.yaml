@@ -1,0 +1,135 @@
+baseURL: note.shizhongqi.cn
+languageCode: zh-cn
+title: Shizhongqi's Note
+theme: PaperMod
+paginate: 5
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+pygmentsUseClasses: true
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+params:
+  env: production
+  title: Shizhongqi's Note
+  description: 学到的知识一定要用笔记下来！
+  keywords:
+    - Linux
+    - MySQL
+    - vi
+    - C
+    - C++
+  author: Shizhongqi
+  images:
+    - <link or path of image for opengraph, twitter-cards>
+  DateFormat: January 2, 2006
+  defaultTheme: auto
+  disableThemeToggle: false
+  ShowReadingTime: true
+  ShowShareButtons: false
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  ShowWordCount: true
+  ShowRssButtonInSectionTermList: false
+  UseHugoToc: true
+  disableSpecial1stPost: false
+  disableScrollToTop: false
+  comments: false
+  hidemeta: false
+  hideSummary: false
+  showtoc: false
+  tocopen: false
+  assets:
+    favicon: /images/pikachu.png
+    favicon16x16: <link / abs url>
+    favicon32x32: <link / abs url>
+    apple_touch_icon: <link / abs url>
+    safari_pinned_tab: <link / abs url>
+  label:
+    text: Home
+    icon: /apple-touch-icon.png
+    iconHeight: 35
+  profileMode:
+    enabled: true
+    title: Shizhongqi
+    subtitle: Shizhongqi's Note
+    imageUrl: /images/pikachu.png
+    imageWidth: 120
+    imageHeight: 120
+    imageTitle: Shizhongqi
+    buttons:
+      - name: My Notes
+        url: notes
+      - name: Linux Command
+        url: linux-command
+  socialIcons:
+    - name: github
+      url: https://github.com/ishizhongqi
+    - name: email
+      url: 'mailto: ishizhongqi@outlook.com'
+    - name: qq
+      url: tencent://message/?uin=1174094849&Site=&Menu=yes
+    - name: wechat
+      url: weixin://contacts/profile/Shi2hq
+    - name: leetcode
+      url: https://leetcode.com/u/Shizhongqi/
+    - name: bilibili
+      url: https://space.bilibili.com/244320948
+    - name: x
+      url: https://x.com/ishizhongqi
+  analytics:
+    bing:
+      SiteVerificationTag: XYZabc
+  cover:
+    hidden: true
+    hiddenInList: true
+    hiddenInSingle: true
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 0.4
+    minMatchCharLength: 0
+    limit: 10
+    keys:
+      - title
+      - permalink
+      - summary
+      - content
+
+menu:
+  main:
+    - identifier: notes
+      name: Notes
+      url: /notes/
+      weight: 10
+    - identifier: posts
+      name: Posts
+      url: /posts/
+      weight: 20
+    - identifier: about
+      name: About
+      url: /about
+      weight: 30
+    - identifier: categories
+      name: Categories
+      url: /categories/
+      weight: 40
+    - identifier: tags
+      name: Tags
+      url: /tags/
+      weight: 50
+    - identifier: GitHub
+      name: GitHub
+      url: https://github.com/ishizhongqi
+      weight: 60
+
+markup:
+  highlight:
+    noClasses: false

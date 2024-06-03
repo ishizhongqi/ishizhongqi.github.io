@@ -2,61 +2,61 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:1313/categories/</loc>
+    <loc>note.shizhongqi.cn/categories/</loc>
     <lastmod>2024-06-03T16:36:17+08:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/categories/command/</loc>
+    <loc>note.shizhongqi.cn/categories/command/</loc>
     <lastmod>2024-06-03T16:36:17+08:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/git/</loc>
+    <loc>note.shizhongqi.cn/tags/git/</loc>
     <lastmod>2024-06-03T16:36:17+08:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/categories/git/</loc>
+    <loc>note.shizhongqi.cn/categories/git/</loc>
     <lastmod>2024-06-03T16:36:17+08:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/notes/git-manual/</loc>
+    <loc>note.shizhongqi.cn/notes/git-manual/</loc>
     <lastmod>2024-06-03T16:36:17+08:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/categories/linux/</loc>
+    <loc>note.shizhongqi.cn/categories/linux/</loc>
     <lastmod>2024-06-03T16:36:17+08:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/notes/</loc>
+    <loc>note.shizhongqi.cn/notes/</loc>
     <lastmod>2024-06-03T16:36:17+08:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/categories/notes/</loc>
+    <loc>note.shizhongqi.cn/categories/notes/</loc>
     <lastmod>2024-06-03T16:36:17+08:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/</loc>
+    <loc>note.shizhongqi.cn/</loc>
     <lastmod>2024-06-03T16:36:17+08:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/</loc>
+    <loc>note.shizhongqi.cn/tags/</loc>
     <lastmod>2024-06-03T16:36:17+08:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/vi/</loc>
+    <loc>note.shizhongqi.cn/tags/vi/</loc>
     <lastmod>2024-06-03T16:36:17+08:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/view/</loc>
+    <loc>note.shizhongqi.cn/tags/view/</loc>
     <lastmod>2024-06-03T16:36:17+08:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/vim/</loc>
+    <loc>note.shizhongqi.cn/tags/vim/</loc>
     <lastmod>2024-06-03T16:36:17+08:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/notes/vimtutor%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3/</loc>
+    <loc>note.shizhongqi.cn/notes/vimtutor%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3/</loc>
     <lastmod>2024-06-03T16:36:17+08:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/linux/</loc>
+    <loc>note.shizhongqi.cn/tags/linux/</loc>
     <lastmod>2024-06-02T15:53:17+08:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/notes/linux-command/</loc>
+    <loc>note.shizhongqi.cn/notes/linux-command/</loc>
     <lastmod>2024-06-02T15:53:17+08:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/about/</loc>
+    <loc>note.shizhongqi.cn/about/</loc>
     <lastmod>2024-06-02T10:55:41+08:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/posts/first/</loc>
+    <loc>note.shizhongqi.cn/posts/first/</loc>
     <lastmod>2024-06-02T10:54:17+08:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/posts/</loc>
+    <loc>note.shizhongqi.cn/posts/</loc>
     <lastmod>2024-06-02T10:54:17+08:00</lastmod>
   </url>
 </urlset>

@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Git on Shizhongqi&#39;s Note</title>
-    <link>//localhost:1313/categories/git/</link>
+    <link>note.shizhongqi.cn/categories/git/</link>
     <description>Recent content in Git on Shizhongqi&#39;s Note</description>
     <image>
       <title>Shizhongqi&#39;s Note</title>
-      <url>//localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>//localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>note.shizhongqi.cn/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>note.shizhongqi.cn/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.126.3</generator>
     <language>zh-cn</language>
     <lastBuildDate>Mon, 03 Jun 2024 16:36:17 +0800</lastBuildDate>
-    <atom:link href="//localhost:1313/categories/git/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="note.shizhongqi.cn/categories/git/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Git Manual</title>
-      <link>//localhost:1313/notes/git-manual/</link>
+      <link>note.shizhongqi.cn/notes/git-manual/</link>
       <pubDate>Mon, 03 Jun 2024 16:36:17 +0800</pubDate>
-      <guid>//localhost:1313/notes/git-manual/</guid>
+      <guid>note.shizhongqi.cn/notes/git-manual/</guid>
       <description>Git常用命令参考手册，基本涵盖了在开发中用到的git命令，能满足日常需求。</description>
     </item>
   </channel>

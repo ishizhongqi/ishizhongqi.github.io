@@ -1,16 +1,18 @@
-+++
-title = 'VimTutor中文文档'
-date = 2024-06-03T16:36:17+08:00
-draft = false
-description = "VimTutor中文文档。"
-tags = [ "vi", "vim", "view" ]
-categories = [
-  "Notes",
-  "Linux",
-  "Command"
-]
-showtoc = false
-+++
+---
+categories:
+- Notes
+- Linux
+- Command
+date: "2024-06-03T16:36:17+08:00"
+description: VimTutor中文文档。
+draft: false
+showtoc: false
+tags:
+- vi
+- vim
+- view
+title: VimTutor中文文档
+---
 
 [➤ GitHub仓库原作者](https://github.com/HanielF/VimTutor/)  
 

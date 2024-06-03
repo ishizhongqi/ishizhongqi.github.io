@@ -1,16 +1,16 @@
-+++
-title = 'Git Manual'
-date = 2024-06-03T16:36:17+08:00
-draft = false
-description = "Git常用命令参考手册，基本涵盖了在开发中用到的git命令，能满足日常需求。"
-tags = [ "git" ]
-categories = [
-  "Notes",
-  "git",
-  "Command"
-]
-showtoc = true
-+++
+---
+categories:
+- Notes
+- git
+- Command
+date: "2024-06-03T16:36:17+08:00"
+description: Git常用命令参考手册，基本涵盖了在开发中用到的git命令，能满足日常需求。
+draft: false
+showtoc: true
+tags:
+- git
+title: Git Manual
+---
 
 [➤ GitHub仓库原作者](https://github.com/xjh22222228/git-manual/)  
 

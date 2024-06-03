@@ -2,50 +2,50 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on Shizhongqi&#39;s Note</title>
-    <link>//localhost:1313/tags/</link>
+    <link>note.shizhongqi.cn/tags/</link>
     <description>Recent content in Tags on Shizhongqi&#39;s Note</description>
     <image>
       <title>Shizhongqi&#39;s Note</title>
-      <url>//localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>//localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>note.shizhongqi.cn/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>note.shizhongqi.cn/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.126.3</generator>
     <language>zh-cn</language>
     <lastBuildDate>Mon, 03 Jun 2024 16:36:17 +0800</lastBuildDate>
-    <atom:link href="//localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="note.shizhongqi.cn/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Git</title>
-      <link>//localhost:1313/tags/git/</link>
+      <link>note.shizhongqi.cn/tags/git/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/git/</guid>
+      <guid>note.shizhongqi.cn/tags/git/</guid>
       <description></description>
     </item>
     <item>
       <title>Vi</title>
-      <link>//localhost:1313/tags/vi/</link>
+      <link>note.shizhongqi.cn/tags/vi/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/vi/</guid>
+      <guid>note.shizhongqi.cn/tags/vi/</guid>
       <description></description>
     </item>
     <item>
       <title>View</title>
-      <link>//localhost:1313/tags/view/</link>
+      <link>note.shizhongqi.cn/tags/view/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/view/</guid>
+      <guid>note.shizhongqi.cn/tags/view/</guid>
       <description></description>
     </item>
     <item>
       <title>Vim</title>
-      <link>//localhost:1313/tags/vim/</link>
+      <link>note.shizhongqi.cn/tags/vim/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/vim/</guid>
+      <guid>note.shizhongqi.cn/tags/vim/</guid>
       <description></description>
     </item>
     <item>
       <title>Linux</title>
-      <link>//localhost:1313/tags/linux/</link>
+      <link>note.shizhongqi.cn/tags/linux/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/linux/</guid>
+      <guid>note.shizhongqi.cn/tags/linux/</guid>
       <description></description>
     </item>
   </channel>
