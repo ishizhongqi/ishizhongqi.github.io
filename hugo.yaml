@@ -1,5 +1,5 @@
 baseURL: note.shizhongqi.cn
-languageCode: zh-cn
+languageCode: zh
 title: Shizhongqi's Note
 theme: PaperMod
 paginate: 5
@@ -50,6 +50,7 @@ params:
     favicon32x32: <link / abs url>
     apple_touch_icon: <link / abs url>
     safari_pinned_tab: <link / abs url>
+    disableHLJS: true
   label:
     text: Home
     icon: /apple-touch-icon.png
@@ -132,4 +133,9 @@ menu:
 
 markup:
   highlight:
-    noClasses: false
+    # anchorLineNos: true
+    codeFences: true
+    guessSyntax: true
+    lineNos: false
+    # noClasses: false
+    style: monokai

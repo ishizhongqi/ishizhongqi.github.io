@@ -1,4 +1,9 @@
 @font-face {
-    font-family: "YaHei-Consolas";
-    src: url("/fonts/YaHei.Consolas.1.12.ttf") format("truetype");
-  }
+    font-family: "HarmonyOS_Sans_SC_Regular";
+    src: url(/fonts/HarmonyOS_Sans_SC_Regular.ttf) format("truetype");
+}
+
+@font-face {
+    font-family: "JetBrainsMono-Medium";
+    src: url(/fonts/JetBrainsMono-Medium.ttf) format("truetype");
+}

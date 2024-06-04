@@ -2,36 +2,36 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Notes on Shizhongqi&#39;s Note</title>
-    <link>note.shizhongqi.cn/categories/notes/</link>
+    <link>//localhost:1313/categories/notes/</link>
     <description>Recent content in Notes on Shizhongqi&#39;s Note</description>
     <image>
       <title>Shizhongqi&#39;s Note</title>
-      <url>note.shizhongqi.cn/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>note.shizhongqi.cn/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>//localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>//localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.126.3</generator>
-    <language>zh-cn</language>
+    <language>zh</language>
     <lastBuildDate>Mon, 03 Jun 2024 16:36:17 +0800</lastBuildDate>
-    <atom:link href="note.shizhongqi.cn/categories/notes/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/categories/notes/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Git Manual</title>
-      <link>note.shizhongqi.cn/notes/git-manual/</link>
+      <title>Git 中文手册</title>
+      <link>//localhost:1313/notes/git-manual/</link>
       <pubDate>Mon, 03 Jun 2024 16:36:17 +0800</pubDate>
-      <guid>note.shizhongqi.cn/notes/git-manual/</guid>
-      <description>Git常用命令参考手册，基本涵盖了在开发中用到的git命令，能满足日常需求。</description>
+      <guid>//localhost:1313/notes/git-manual/</guid>
+      <description>Git常用命令参考手册，基本涵盖了在开发中用到的Git命令，能满足日常需求。</description>
     </item>
     <item>
-      <title>VimTutor中文文档</title>
-      <link>note.shizhongqi.cn/notes/vimtutor%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3/</link>
+      <title>VimTutor 中文文档</title>
+      <link>//localhost:1313/notes/vimtutor/</link>
       <pubDate>Mon, 03 Jun 2024 16:36:17 +0800</pubDate>
-      <guid>note.shizhongqi.cn/notes/vimtutor%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3/</guid>
+      <guid>//localhost:1313/notes/vimtutor/</guid>
       <description>VimTutor中文文档。</description>
     </item>
     <item>
-      <title>Linux Command</title>
-      <link>note.shizhongqi.cn/notes/linux-command/</link>
+      <title>Linux 命令搜索工具</title>
+      <link>//localhost:1313/notes/linux-command/</link>
       <pubDate>Sun, 02 Jun 2024 15:53:17 +0800</pubDate>
-      <guid>note.shizhongqi.cn/notes/linux-command/</guid>
+      <guid>//localhost:1313/notes/linux-command/</guid>
       <description>Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。</description>
     </item>
   </channel>

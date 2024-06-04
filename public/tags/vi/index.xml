@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Vi on Shizhongqi&#39;s Note</title>
-    <link>note.shizhongqi.cn/tags/vi/</link>
+    <link>//localhost:1313/tags/vi/</link>
     <description>Recent content in Vi on Shizhongqi&#39;s Note</description>
     <image>
       <title>Shizhongqi&#39;s Note</title>
-      <url>note.shizhongqi.cn/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>note.shizhongqi.cn/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>//localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>//localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.126.3</generator>
-    <language>zh-cn</language>
+    <language>zh</language>
     <lastBuildDate>Mon, 03 Jun 2024 16:36:17 +0800</lastBuildDate>
-    <atom:link href="note.shizhongqi.cn/tags/vi/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/tags/vi/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>VimTutor中文文档</title>
-      <link>note.shizhongqi.cn/notes/vimtutor%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3/</link>
+      <title>VimTutor 中文文档</title>
+      <link>//localhost:1313/notes/vimtutor/</link>
       <pubDate>Mon, 03 Jun 2024 16:36:17 +0800</pubDate>
-      <guid>note.shizhongqi.cn/notes/vimtutor%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3/</guid>
+      <guid>//localhost:1313/notes/vimtutor/</guid>
       <description>VimTutor中文文档。</description>
     </item>
   </channel>
