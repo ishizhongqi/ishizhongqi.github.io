@@ -133,9 +133,16 @@ menu:
 
 markup:
   highlight:
-    # anchorLineNos: true
+    anchorLineNos: false
     codeFences: true
-    guessSyntax: true
+    guessSyntax: false
+    hl_Lines: ""
+    hl_inline: false
+    lineAnchors: ""
+    lineNoStart: 1
     lineNos: false
-    # noClasses: false
-    style: monokai
+    lineNumbersInTable: true
+    noClasses: false
+    noHl: false
+    style: abap
+    tabWidth: 4
