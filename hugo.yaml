@@ -1,6 +1,7 @@
-baseURL: note.shizhongqi.cn
+baseURL: shizhongqi.cn
 languageCode: zh
-title: Shizhongqi's Note
+defaultContentLanguage: zh
+defaultContentLanguageInSubdir: true
 theme: PaperMod
 paginate: 5
 enableRobotsTXT: true
@@ -9,13 +10,106 @@ buildFuture: false
 buildExpired: false
 pygmentsUseClasses: true
 
+languages:
+  en:
+    languageName: English
+    languageCode: en
+    contentDir: content/en
+    title: QiQi's Note Dock
+    menu:
+      main:
+        - identifier: notes
+          name: Notes
+          url: /en/notes/
+          weight: 10
+        - identifier: posts
+          name: Posts
+          url: /en/posts/
+          weight: 20
+        - identifier: about
+          name: About
+          url: /en/about
+          weight: 30
+        - identifier: categories
+          name: Categories
+          url: /en/categories/
+          weight: 40
+        - identifier: tags
+          name: Tags
+          url: /en/tags/
+          weight: 50
+        - identifier: GitHub
+          name: GitHub
+          url: https://github.com/ishizhongqi
+          weight: 60
+    params:
+      profileMode:
+        enabled: true
+        title: QiQi's Note Dock
+        subtitle: Write down what you learn !
+        imageUrl: /images/pikachu.png
+        imageWidth: 120
+        imageHeight: 120
+        imageTitle: profile image
+        buttons:
+          - name: My Notes
+            url: notes
+          - name: Linux Command
+            url: linux-command
+
+  zh:
+    languageName: 中文
+    languageCode: zh
+    contentDir: content/zh
+    title: 琪琪的笔记坞
+    menu:
+      main:
+        - identifier: notes
+          name: 笔记
+          url: /zh/notes/
+          weight: 10
+        - identifier: posts
+          name: 文章
+          url: /zh/posts/
+          weight: 20
+        - identifier: about
+          name: 关于
+          url: /zh/about
+          weight: 30
+        - identifier: categories
+          name: 分类
+          url: /zh/categories/
+          weight: 40
+        - identifier: tags
+          name: 标签
+          url: /zh/tags/
+          weight: 50
+        - identifier: GitHub
+          name: GitHub
+          url: https://github.com/ishizhongqi
+          weight: 60
+    params:
+      profileMode:
+        enabled: true
+        title: 琪琪的笔记坞
+        subtitle: 学到的知识一定要用笔记下来！
+        imageUrl: /images/pikachu.png
+        imageWidth: 120
+        imageHeight: 120
+        imageTitle: profile image
+        buttons:
+          - name: 我的笔记
+            url: notes
+          - name: Linux 命令搜索
+            url: linux-command
+
 minify:
   disableXML: true
   minifyOutput: true
 
 params:
   env: production
-  title: Shizhongqi's Note
+  title: 琪琪的笔记坞
   description: 学到的知识一定要用笔记下来！
   keywords:
     - Linux
@@ -51,23 +145,11 @@ params:
     apple_touch_icon: <link / abs url>
     safari_pinned_tab: <link / abs url>
     disableHLJS: true
-  label:
-    text: Home
-    icon: /apple-touch-icon.png
-    iconHeight: 35
-  profileMode:
-    enabled: true
-    title: Shizhongqi
-    subtitle: Shizhongqi's Note
-    imageUrl: /images/pikachu.png
-    imageWidth: 120
-    imageHeight: 120
-    imageTitle: Shizhongqi
-    buttons:
-      - name: My Notes
-        url: notes
-      - name: Linux Command
-        url: linux-command
+#  label:
+#    text: Home
+#    icon: /apple-touch-icon.png
+#    iconHeight: 35
+
   socialIcons:
     - name: github
       url: https://github.com/ishizhongqi
@@ -103,33 +185,6 @@ params:
       - permalink
       - summary
       - content
-
-menu:
-  main:
-    - identifier: notes
-      name: Notes
-      url: /notes/
-      weight: 10
-    - identifier: posts
-      name: Posts
-      url: /posts/
-      weight: 20
-    - identifier: about
-      name: About
-      url: /about
-      weight: 30
-    - identifier: categories
-      name: Categories
-      url: /categories/
-      weight: 40
-    - identifier: tags
-      name: Tags
-      url: /tags/
-      weight: 50
-    - identifier: GitHub
-      name: GitHub
-      url: https://github.com/ishizhongqi
-      weight: 60
 
 markup:
   highlight:

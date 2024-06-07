@@ -1481,7 +1481,7 @@ git commit -m "refactor: 流程模块重构"
 有时候需要从一个旧仓库迁移到新仓库，如果手动只能把文件进行迁移，但是如果需要把分支、标签、历史记录一起迁移就需要复制仓库。
 
 
-旧仓库: https://github.com/username/exampleOld.git
+旧仓库: https://github.com/username/exampleOld.git  
 新仓库: https://github.com/username/exampleNew.git
 
 1、克隆旧裸仓库
