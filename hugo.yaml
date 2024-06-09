@@ -38,10 +38,14 @@ languages:
           name: Tags
           url: /en/tags/
           weight: 50
+        - identifier: archives
+          name: Archives
+          url: /en/archives/
+          weight: 60
         - identifier: GitHub
           name: GitHub
           url: https://github.com/ishizhongqi
-          weight: 60
+          weight: 70
     params:
       profileMode:
         enabled: true
@@ -84,10 +88,14 @@ languages:
           name: 标签
           url: /zh/tags/
           weight: 50
+        - identifier: archives
+          name: 归档
+          url: /zh/archives/
+          weight: 60
         - identifier: GitHub
           name: GitHub
           url: https://github.com/ishizhongqi
-          weight: 60
+          weight: 70
     params:
       profileMode:
         enabled: true
@@ -149,6 +157,8 @@ params:
 #    text: Home
 #    icon: /apple-touch-icon.png
 #    iconHeight: 35
+  busuanzi:
+    enable: true
 
   socialIcons:
     - name: github

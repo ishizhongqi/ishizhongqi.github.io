@@ -22,6 +22,17 @@
     {{- if not (.Param "hideMeta") }}
     <div class="post-meta">
       {{- partial "post_meta.html" . -}}
+      <!-- busuanzi -->
+      {{ if .Site.Params.busuanzi.enable -}}
+      <div class="meta-item">&nbsp·&nbsp<span id="busuanzi_container_page_pv"><span id="busuanzi_value_page_pv"></span>
+        {{ if (eq site.Language.LanguageCode "zh") -}}
+          阅读
+        {{- else }}
+          views
+        {{- end }}
+        </span>
+      </div>
+      {{- end }}
       {{- partial "translation_list.html" . -}}
       {{- partial "edit_post.html" . -}}
       {{- partial "post_canonical.html" . -}}
